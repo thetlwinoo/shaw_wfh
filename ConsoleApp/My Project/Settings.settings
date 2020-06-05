@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.168.0.22</Value>
+    </Setting>
+    <Setting Name="FromAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">donotreply@shaw.com.sg</Value>
+    </Setting>
+    <Setting Name="FromName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DoNotReply</Value>
+    </Setting>
+    <Setting Name="RetryCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="LogFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Logs\</Value>
+    </Setting>
+    <Setting Name="Subject" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Body" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MailPriority" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DeliveryNotificationOptions" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="EnableSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ToAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myat.min@shaw.com.sg;thet.lwin@shaw.com.sg;sitt.shein@shaw.com.sg</Value>
+    </Setting>
+    <Setting Name="ToName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CcAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BccAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TemplateFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\WFH\email_template.html</Value>
+    </Setting>
+    <Setting Name="ShawStaffFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\WFH\shaw_staff.xlsx</Value>
+    </Setting>
+    <Setting Name="TemparatureFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\WFH\temparature.xlsx</Value>
+    </Setting>
+    <Setting Name="ErrorFlag" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MailDomain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">biz.shaw</Value>
+    </Setting>
+    <Setting Name="MailServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">143</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
